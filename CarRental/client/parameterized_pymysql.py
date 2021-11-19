@@ -20,3 +20,4 @@ if engine is not None:
     sql = "select * from flight where origin like %s or origin like %s"
     df = pd.read_sql(sql=sql, con=db, params=params)
     print(f'{df}')
+ 
