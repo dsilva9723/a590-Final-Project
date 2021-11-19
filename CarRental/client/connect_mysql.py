@@ -34,3 +34,4 @@ if db is not None:
     db.close()  
 else:
     print(f"No connection available.") 
+ 
