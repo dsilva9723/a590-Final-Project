@@ -45,3 +45,4 @@ def sqlalchemy_mysql(db_name):
     else:
         print(f"Successful connection to MySQL {db_name}")
         return engine
+ 
