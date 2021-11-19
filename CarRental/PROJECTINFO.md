@@ -30,12 +30,21 @@
     
     7) Run **carRental_insert.py** python file.
     
-    8) Return to MySQL Workbench. Open carrental schema -> tables -> carrental. Run the following SQL cript:
+    8) In subfolder **redesign** open file **carSpecs_insert.py**.
+    
+    9) Run **carSpecs_insert.py** python file.
+    
+    10) Return to MySQL Workbench. Open carrental schema -> tables -> carspecs. Run the following SQL cript:
              use carrental;
              select *
-             from carrental;
+             from carspecs;
              
-    9) Celebrate! 
+    11) Return to MySQL Workbench. Open carrental schema -> tables -> rentlocation. Run the following SQL cript:
+             use carrental;
+             select *
+             from rentlocation;      
+     
+    12) Celebrate! 
             
            
   
