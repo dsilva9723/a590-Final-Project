@@ -40,3 +40,4 @@ if db is not None:
 else:
     print(f"No connection available.")
 
+ 
