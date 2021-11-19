@@ -108,4 +108,4 @@ FROM flights f JOIN airports a1 ON f.origin = a1.faa
 
 -- Join
 SELECT first, origin, destination FROM flights JOIN passengers ON passengers.flight_id = flights.id;
-
+ 
