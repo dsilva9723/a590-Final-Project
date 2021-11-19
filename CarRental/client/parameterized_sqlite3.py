@@ -26,3 +26,4 @@ if engine is not None:
     }
     sql = "select * from flights where origin like :value1 or origin like :value2"
     print(f'named style:\n {pd.read_sql(sql=sql, con=db, params=params)}')
+ 
