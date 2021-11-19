@@ -18,3 +18,4 @@ print(flights_df) #print
 write_to_json(flights_df, "client", "flights") #write to client/flights.json
 
 db.close() #disconnect
+ 
