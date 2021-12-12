@@ -3,4 +3,9 @@
 - MySQL dump file<br>
 - SQLite3 dump file<br>
 - Database schema in EER diagram<br>
-- Give five SQL statements which are most frequently requested from your clients.<br>
+- Give five SQL statements which are most frequently requested from your clients.<br> <br>
+## Damian: <br>
+- Flask App<br>
+- A script of doing parameterized SQL statements for MySQL database<br>
+- A script of doing parameterized SQL statements for SQLite3 database<br>
+- A script of importing CSV data to a SQL table<br>
