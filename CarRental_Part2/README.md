@@ -15,10 +15,10 @@
     - [SQLite3 dump file](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/car_rental_sqlite3_dump.sql)<br>
     - [Database Schema in EER Diagram](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/erd.jpg)<br>
     - [Five SQL statements which are most frequently requested from your clients](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/Statements.sql)<br><br>
- 4. **[Python Client]** <https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/client><br><br>
-    - [Parameterized SQL statements for MySQL database] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_pymysql.py><br>
-    - [Parameterized SQL statements for SQLite3 database] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_sqlite3.py><br>
-    - [Importing CSV data to a SQL table] <https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/redesign><br>
-      - [CarRental] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/carRental_insert.py> <br>
-      - [CarSpecs] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/carSpecs_insert.py><br>
+ 4. [Python Client](https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/client)<br><br>
+    - [Parameterized SQL statements for MySQL database](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_pymysql.py)<br>
+    - [Parameterized SQL statements for SQLite3 database](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_sqlite3.py)<br>
+    - [Importing CSV data to a SQL table](https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/redesign)<br>
+      - [CarRental](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/carRental_insert.py)<br>
+      - [CarSpecs](https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/carSpecs_insert.py)<br>
     
