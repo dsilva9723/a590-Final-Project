@@ -15,3 +15,7 @@
 - Creating, organizing, maintaining GitHub A-590 Final Project Repository<br>
 - Working with Tyler and Damian on troubleshooting<br>
 - Lead project manager<br><br>
+## Vishnu: <br>
+- Helped with initial brainstorming for project creation<br>
+- Helped with finding and agreeing on data to be used for our final project<br><br>
+## Work distribution among team members visual:<br>
