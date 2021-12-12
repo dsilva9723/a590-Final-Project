@@ -7,7 +7,7 @@
     has a detailed report of attributes on the car. Our team will provide data forecasting to find out what type of cars are selling more frequently throughout each quarter and
     utilize these trends for future car purchases for the dealership.<br><br>
  ## Group Project Submission Links:<br>
- 1. [A-590 Final Project]<https://github.com/dsilva9723/a590-Final-Project><br>
- 2. [Flask App]<https://github.com/dsilva9723/a590-Final-Project/tree/test/CarRental_Part2/flight2_RestAPI_byFlask><br>
+ 1. [A-590 Final Project] <https://github.com/dsilva9723/a590-Final-Project><br>
+ 2. [Flask App] <https://github.com/dsilva9723/a590-Final-Project/tree/test/CarRental_Part2/flight2_RestAPI_byFlask><br>
     - [URL to the App deployed on Heroku] <https://immense-plateau-66681.herokuapp.com/><br>
  3. 
