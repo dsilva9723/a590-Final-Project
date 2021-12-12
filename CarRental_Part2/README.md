@@ -5,4 +5,7 @@
     to find the right car to meet customer expectations.
     Using our up-to-date database application listing our inventory, we can provide the customer with a quality used car that meets their needs, sold at an affordable price, and
     has a detailed report of attributes on the car. Our team will provide data forecasting to find out what type of cars are selling more frequently throughout each quarter and
-    utilize these trends for future car purchases for the dealership.
+    utilize these trends for future car purchases for the dealership.<br><br>
+ ## Group Project Submission Links:<br>
+ 
+ 
