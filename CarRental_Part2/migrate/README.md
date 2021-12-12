@@ -1,2 +1,2 @@
 # Migrate<br><br>
-![setup_learn_sql_mac_thumb1200_4-3](https://user-images.githubusercontent.com/89424202/145732285-4f048ff3-3036-4671-9997-1ee9301ed7fb.jpg)
+![SQL-Coding-Class-San-Francisco-1](https://user-images.githubusercontent.com/89424202/145732334-cffdd562-9265-4f73-affa-dde660a06ccb.jpeg)
