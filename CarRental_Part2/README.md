@@ -16,7 +16,7 @@
     - [Database Schema in EER Diagram] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/erd.jpg><br>
     - [Five SQL statements which are most frequently requested from your clients] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/Statements.sql><br><br>
  4. **[Python Client]** <https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/client><br><br>
-    - [Parameterized SQL statements for MySQL database] <afbfbeb><br>
+    - [Parameterized SQL statements for MySQL database] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_pymysql.py><br>
     - [Parameterized SQL statements for SQLite3 database] <sefbefbeb><br>
     - [Importing CSV data to a SQL table] <sebsdfbsfdb><br>
     
