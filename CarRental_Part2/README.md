@@ -12,3 +12,6 @@
     - [URL to the App deployed on Heroku] <https://immense-plateau-66681.herokuapp.com/><br><br>
  3. [Database Part] <br><br>
     - [MySQL dump file] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/car_rental_mysql_dump.sql><br><br>
+    - [SQLite3 dump file] <rvrvrv><br>
+    - [Database Schema in EER Diagram] <rerere><br>
+    - [Five SQL statements which are most frequently requested from your clients] <egrsegs><br>
