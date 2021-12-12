@@ -9,4 +9,4 @@
  ## Group Project Submission Links:<br>
  1. [A-590 Final Project]<https://github.com/dsilva9723/a590-Final-Project><br>
  2. [Flask App]<https://github.com/dsilva9723/a590-Final-Project/tree/test/CarRental_Part2/flight2_RestAPI_byFlask><br>
-    2. [URL to the App deployed on Heroku] <https://immense-plateau-66681.herokuapp.com/><br>
+    - [URL to the App deployed on Heroku] <https://immense-plateau-66681.herokuapp.com/><br>
