@@ -1,1 +1,1 @@
-# Place config.py in the subdirectory `function`
+# Place config.py in the subdirectory function
