@@ -1,0 +1,198 @@
+id,locationcity,locationstate,ownerid,airportcity
+1,Portland,OR,320877,Portland
+2,Honolulu,HI,45460,Honolulu
+3,New Orleans,LA,1803853,New Orleans
+4,Phoenix,AZ,950349,Phoenix
+5,Las Vegas,NV,4158797,Las Vegas
+6,San Francisco,CA,5207578,San Francisco
+7,Jersey City,NJ,67096,Newark
+8,Irving,TX,1582843,Dallas-Fort Worth
+9,Miami,FL,637495,Miami
+10,Millbrae,CA,117750,San Francisco
+11,Honolulu,HI,912177,Honolulu
+12,San Ramon,CA,821919,Oakland
+13,Dallas,TX,1582843,Dallas
+14,Atlanta,GA,507900,Atlanta
+15,Dallas,TX,1582843,Dallas
+16,Las Vegas,NV,3484421,Las Vegas
+17,Las Vegas,NV,1427288,Las Vegas
+18,Aurora,CO,1723655,Denver
+19,Los Angeles,CA,1347938,Los Angeles
+20,San Francisco,CA,124207,Oakland
+21,Phoenix,AZ,950349,Phoenix
+22,Phoenix,AZ,950349,Phoenix
+23,Brentwood,TN,495552,Nashville
+24,Dallas,TX,1582843,Dallas
+25,Las Vegas,NV,464342,Las Vegas
+26,Las Vegas,NV,3484421,Las Vegas
+27,Irving,TX,1582843,Dallas-Fort Worth
+28,Seattle,WA,663789,Seattle
+29,Seattle,WA,1006943,Seattle
+30,Las Vegas,NV,464342,Las Vegas
+31,Honolulu,HI,595685,Honolulu
+32,Nashville,TN,311958,Nashville
+33,Phoenix,AZ,950349,Phoenix
+34,Seattle,WA,6359397,Seattle
+35,San Francisco,CA,168282,Oakland
+36,San Diego,CA,3689861,San Diego
+37,Southfield,MI,1370302,Detroit
+38,Las Vegas,NV,1427288,Las Vegas
+39,Dallas,TX,1582843,Dallas
+40,San Diego,CA,3689861,San Diego
+41,Miami,FL,731748,West Palm Beach
+42,Philadelphia,PA,2541813,Philadelphia
+43,Dallas,TX,1582843,Dallas
+44,Dallas,TX,1582843,Dallas
+45,Jersey City,NJ,67096,Newark
+46,San Antonio,TX,2714703,San Antonio
+47,Gardena,CA,3248814,Ontario
+48,Miami,FL,731748,West Palm Beach
+49,Jersey City,NJ,519772,Newark
+50,Commerce City,CO,2318184,Denver
+51,Phoenix,AZ,1293045,Phoenix
+52,Los Angeles,CA,893373,Ontario
+53,Phoenix,AZ,950349,Phoenix
+54,San Antonio,TX,523923,San Antonio
+55,Austin,TX,656440,Austin
+56,Commerce City,CO,2318184,Denver
+57,Houston,TX,175408,Houston
+58,Las Vegas,NV,4158797,Las Vegas
+59,Seattle,WA,6359397,Seattle
+60,Seattle,WA,6359397,Seattle
+61,Phoenix,AZ,1135852,Phoenix
+62,Commerce City,CO,2318184,Denver
+63,Alameda,CA,2192096,Oakland
+64,San Francisco,CA,6630342,San Francisco
+65,Las Vegas,NV,3484421,Las Vegas
+66,Commerce City,CO,2318184,Denver
+67,Las Vegas,NV,1427288,Las Vegas
+68,Portland,OR,1709806,Portland
+69,Miami,FL,637495,Miami
+70,Phoenix,AZ,950349,Phoenix
+71,Mentor,OH,1092884,Cleveland
+72,Seattle,WA,6359397,Seattle
+73,Commerce City,CO,2318184,Denver
+74,Miami,FL,637495,Miami
+75,Seattle,WA,663789,Seattle
+76,South San Francisco,CA,1122675,San Francisco
+77,Irvine,CA,1186913,Santa Ana
+78,Lakewood,CO,2245310,Denver
+79,Gardena,CA,3248814,Ontario
+80,Hampton,VA,2757207,Newport News
+81,Philadelphia,PA,1806993,Philadelphia
+82,Dallas,TX,1582843,Dallas
+83,Las Vegas,NV,3238496,Las Vegas
+84,Seattle,WA,663789,Seattle
+85,Lodi,NJ,1260284,Newark
+86,San Bruno,CA,4993965,San Francisco
+87,Honolulu,HI,729215,Honolulu
+88,Linthicum Heights,MD,6064921,Baltimore
+89,Minneapolis,MN,1300675,Minneapolis
+90,Upland,CA,354032,Ontario
+91,San Diego,CA,2999083,San Diego
+92,Burlingame,CA,487015,San Francisco
+93,Marina del Rey,CA,722440,Los Angeles
+94,Metairie,LA,198464,New Orleans
+95,Brentwood,TN,509511,Nashville
+96,Commerce City,CO,2318184,Denver
+97,Dania Beach,FL,4881621,Fort Lauderdale
+98,Honolulu,HI,912177,Honolulu
+99,Las Vegas,NV,3484421,Las Vegas
+100,Los Angeles,CA,1246806,Los Angeles
+101,Philadelphia,PA,2541813,Philadelphia
+102,Citrus Heights,CA,2624844,Sacramento
+103,Dania Beach,FL,4881621,Fort Lauderdale
+104,Lakewood,CO,2245310,Denver
+105,South Salt Lake,UT,1723833,Salt Lake City
+106,Nashville,TN,7326774,Nashville
+107,Lakewood,CO,2245310,Denver
+108,Seattle,WA,6359397,Seattle
+109,South San Francisco,CA,1122675,San Francisco
+110,Philadelphia,PA,2541813,Philadelphia
+111,Commerce City,CO,2318184,Denver
+112,Las Vegas,NV,3484421,Las Vegas
+113,Jersey City,NJ,67096,Newark
+114,Las Vegas,NV,1970699,Las Vegas
+115,Oakland,CA,2280266,Oakland
+116,Philadelphia,PA,2541813,Philadelphia
+117,San Diego,CA,3689861,San Diego
+118,Atlanta,GA,1426383,Atlanta
+119,Forest Park,GA,1727097,Atlanta
+120,Lakewood,CO,2245310,Denver
+121,Los Angeles,CA,376701,Ontario
+122,Portland,OR,686744,Portland
+123,Portland,OR,2459011,Portland
+124,Scottsdale,AZ,687208,Phoenix
+125,Burlingame,CA,487015,San Francisco
+126,Jersey City,NJ,9450147,Newark
+127,Minneapolis,MN,2000159,Minneapolis
+128,Denver,CO,1536463,Denver
+129,Las Vegas,NV,3484421,Las Vegas
+130,Honolulu,HI,1140662,Honolulu
+131,Lone Tree,CO,558427,Denver
+132,San Antonio,TX,651599,San Antonio
+133,San Diego,CA,2263885,San Diego
+134,Atlanta,GA,511103,Atlanta
+135,Missouri City,TX,1468529,Houston
+136,Indianapolis,IN,106644,Indianapolis
+137,Madison,WI,1404003,Madison
+138,Fort Myers,FL,2456231,Fort Myers
+139,Jersey City,NJ,875927,Newark
+140,Las Vegas,NV,9142498,Las Vegas
+141,East Los Angeles,CA,3217019,Los Angeles
+142,Minneapolis,MN,1300675,Minneapolis
+143,Metairie,LA,198464,New Orleans
+144,San Diego,CA,8761848,San Diego
+145,Lakewood,CO,4057191,Denver
+146,Saint Paul,MN,2245898,Minneapolis
+147,Metairie,LA,198464,New Orleans
+148,Seattle,WA,1836536,Seattle
+149,Las Vegas,NV,499176,Las Vegas
+150,Las Vegas,NV,1427288,Las Vegas
+151,Portland,OR,6659719,Portland
+152,Jersey City,NJ,519772,Newark
+153,Las Vegas,NV,1670971,Las Vegas
+154,Shawnee,KS,1045538,Kansas City
+155,Chicago,IL,5147182,Chicago
+156,Miami,FL,637495,Miami
+157,Phoenix,AZ,4009047,Phoenix
+158,San Diego,CA,2263885,San Diego
+159,Lakewood,CO,2245310,Denver
+160,Houston,TX,1821886,Houston
+161,Schaumburg,IL,2966298,Chicago
+162,Lakewood,CO,2245310,Denver
+163,Las Vegas,NV,1970699,Las Vegas
+164,Buena Park,CA,6357487,Los Angeles
+165,Lakewood,CO,2245310,Denver
+166,Savannah,GA,4609659,Savannah
+167,Savannah,GA,4609659,Savannah
+168,Jacksonville,FL,3375565,Jacksonville
+169,Phoenix,AZ,1135852,Phoenix
+170,Lakewood,CO,2245310,Denver
+171,Jersey City,NJ,2611541,Newark
+172,Philadelphia,PA,640066,Philadelphia
+173,Raleigh,NC,640470,Raleigh/Durham
+174,Noblesville,IN,106644,Indianapolis
+175,Los Angeles,CA,966277,Los Angeles
+176,Minneapolis,MN,2000159,Minneapolis
+177,Savannah,GA,641610,Savannah
+178,Honolulu,HI,595685,Honolulu
+179,Atlanta,GA,507900,Atlanta
+180,Jacksonville,FL,742089,Jacksonville
+181,Arlington,VA,3276160,Washington
+182,Jacksonville,FL,3375565,Jacksonville
+183,Minneapolis,MN,1300675,Minneapolis
+184,Minneapolis,MN,1300675,Minneapolis
+185,Los Angeles,CA,1300139,Los Angeles
+186,Savannah,GA,4609659,Savannah
+187,Irvine,CA,1186913,Santa Ana
+188,Honolulu,HI,2800098,Honolulu
+189,Lakewood,CO,2245310,Denver
+190,Lakewood,CO,2245310,Denver
+191,Dania Beach,FL,4881621,Fort Lauderdale
+192,Miami,FL,637495,Miami
+193,Minneapolis,MN,1300675,Minneapolis
+194,Sterling,VA,449378,Washington
+195,Las Vegas,NV,1670971,Las Vegas
+196,San Francisco,CA,6630342,San Francisco
+197,Doraville,GA,53029,Atlanta
