@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Flight APIs</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body style="background: rgb(223, 208, 208);">
+ <div class="login">
+     <h1>{{section_title}}</h1>
+
+    <form action="{{ url_for('list_model')}}" method="post">
+      <button type="submit" class="btn btn-primary btn-block btn-large">List model</button>
+  </form>
+  <br>
+  <form action="{{ url_for('list_cars_make')}}" method="post">
+    <input type="vehiclemake" name="input_string" placeholder="Enter Vehicle Make here" required="required" />
+  <button type="submit" class="btn btn-primary btn-block btn-large">List rentals with this specific vehicle make</button>
+  </form>
+  </div>
+
+   <br>
+   <br>
+   {{ content }}
+ </div>
+
+
+</body>
+</html>

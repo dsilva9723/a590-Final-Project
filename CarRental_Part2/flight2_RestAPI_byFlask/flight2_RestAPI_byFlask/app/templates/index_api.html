@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Flight API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body style="background: rgb(200, 220, 228);">
+ <div class="login">
+  <form action="{{ url_for('home')}}">
+    <input type="submit" value="Back to API List" class="btn btn-primary btn-block btn-large"">
+  <!--<button type="submit" class="btn btn-primary btn-block btn-large">Back to API List</button>-->
+  </form>
+	<h1>{{heading}}</h1>
+   <div>
+   {{ raw }}
+   </div>
+   <hr />
+   <div>
+    {{ dataframe | safe }}
+    </div>
+</div>
+
+</body>
+</html>
