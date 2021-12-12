@@ -19,3 +19,12 @@
 - Helped with initial brainstorming for project creation<br>
 - Helped with finding and agreeing on data to be used for our final project<br><br>
 ## Work distribution among team members visual:<br>
+<pie-chart data="data" options="options"></pie-chart>
+$scope.data = [
+  {label: "one", value: 12.2, color: "red"}, 
+  {label: "two", value: 45, color: "#00ff00"},
+  {label: "three", value: 10, color: "rgb(0, 0, 255)"}
+];
+$scope.gauge_data = [
+  {label: "CPU", value: 75, suffix: "%", color: "steelblue"}
+];
