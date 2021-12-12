@@ -10,7 +10,7 @@
  1. [A-590 Final Project] <https://github.com/dsilva9723/a590-Final-Project><br><br>
  2. [Flask App] <https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/flight2_RestAPI_byFlask><br><br>
     - [URL to the App deployed on Heroku] <https://immense-plateau-66681.herokuapp.com/><br><br>
- 3. [Database Part] <br><br>
+ 3. [Database Part] <https://github.com/dsilva9723/a590-Final-Project/tree/main/CarRental_Part2/redesign> <br><br>
     - [MySQL dump file] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/redesign/car_rental_mysql_dump.sql><br>
     - [SQLite3 dump file] <rvrvrv><br>
     - [Database Schema in EER Diagram] <rerere><br>
