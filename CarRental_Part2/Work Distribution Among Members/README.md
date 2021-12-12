@@ -1,4 +1,4 @@
-#The work distribution among team members is as follows: <br> <br>
+# The work distribution among team members is as follows: <br> <br>
 Tyler: <br>
 - MySQL dump file<br>
 - SQLite3 dump file<br>
