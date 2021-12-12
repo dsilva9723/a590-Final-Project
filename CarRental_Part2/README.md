@@ -19,6 +19,6 @@
     - [Parameterized SQL statements for MySQL database] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_pymysql.py><br>
     - [Parameterized SQL statements for SQLite3 database] <https://github.com/dsilva9723/a590-Final-Project/blob/main/CarRental_Part2/client/parameterized_sqlite3.py><br>
     - [Importing CSV data to a SQL table]<br>
-      -[Car Rental]
-      -[Car Specs]
+      -[Car Rental] <br>
+      -[Car Specs] <br>
     
