@@ -1,1 +1,8 @@
-
+# CarRental Project for A590
+**Project Scenario:**
+    Phillip, Tyler, Vishnu, and Damian are buisness entrepeneurs and are having a grand opening for used car dealership called "Python Motors". Our mission is to provide
+    quality used cars to Northwest Indiana Residents at affordable prices. We pride ourselves on our compettive prices and our variety of financing options. Our team will strive
+    to find the right car to meet customer expectations.
+    Using our up-to-date database application listing our inventory, we can provide the customer with a quality used car that meets their needs, sold at an affordable price, and
+    has a detailed report of attributes on the car. Our team will provide data forecasting to find out what type of cars are selling more frequently throughout each quarter and
+    utilize these trends for future car purchases for the dealership.
